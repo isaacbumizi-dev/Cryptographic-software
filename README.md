@@ -12,12 +12,19 @@ backup, and recovery.
 
 ## **Installation**
 
-To install and run this software, make sure you have Python and Kivy installed on your system. Then, clone this repository and navigate to the project directory.  git clone https://github.com/yourusername/File-Encryption-Software.git  cd File-Encryption-Software  pip install -r requirements.txt  python main.py
+To install and run this software, make sure you have Python and Kivy installed on your system. Then, clone this repository and navigate to the project directory.  
+git clone https://github.com/yourusername/File-Encryption-Software.git
 
-# **Usage**
+cd File-Encryption-Software
+
+pip install -r requirements.txt
+
+python main.py
+
+## **Usage**
 
 Launch the software and follow the on-screen instructions to encrypt or decrypt your files. Use the history feature to keep track of your activities 
 and leverage the backup and recovery options for added security.
 
-# **Screenshots**
+## **Screenshots**
 Here are some screenshots demonstrating the application:

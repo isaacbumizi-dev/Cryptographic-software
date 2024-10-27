@@ -1,4 +1,4 @@
-# **File Encryption Software for Windows**
+ju# **File Encryption Software for Windows**
 
 Welcome to the File Encryption Software for Windows! This project provides a robust tool for encrypting your files using the AES algorithm, 
 supporting 128-bit, 196-bit, and 256-bit encryption. Built with Python and Kivy, this software ensures the security and integrity of your data with features like history tracking,
@@ -24,5 +24,3 @@ python main.py
 Launch the software and follow the on-screen instructions to encrypt or decrypt your files. Use the history feature to keep track of your activities 
 and leverage the backup and recovery options for added security.
 
-## **Screenshots**
-Here are some screenshots demonstrating the application:
